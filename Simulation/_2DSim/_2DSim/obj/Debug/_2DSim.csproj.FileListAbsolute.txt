@@ -1,0 +1,15 @@
+C:\Users\techboy\Desktop\PositioningSystem\Sim\_2DSim\_2DSim\bin\Debug\_2DSim.exe.config
+C:\Users\techboy\Desktop\PositioningSystem\Sim\_2DSim\_2DSim\bin\Debug\_2DSim.exe
+C:\Users\techboy\Desktop\PositioningSystem\Sim\_2DSim\_2DSim\bin\Debug\_2DSim.pdb
+C:\Users\techboy\Desktop\PositioningSystem\Sim\_2DSim\_2DSim\obj\Debug\_2DSim.csproj.AssemblyReference.cache
+C:\Users\techboy\Desktop\PositioningSystem\Sim\_2DSim\_2DSim\obj\Debug\_2DSim.Form1.resources
+C:\Users\techboy\Desktop\PositioningSystem\Sim\_2DSim\_2DSim\obj\Debug\_2DSim.Properties.Resources.resources
+C:\Users\techboy\Desktop\PositioningSystem\Sim\_2DSim\_2DSim\obj\Debug\_2DSim.csproj.GenerateResource.cache
+C:\Users\techboy\Desktop\PositioningSystem\Sim\_2DSim\_2DSim\obj\Debug\_2DSim.csproj.CoreCompileInputs.cache
+C:\Users\techboy\Desktop\PositioningSystem\Sim\_2DSim\_2DSim\obj\Debug\_2DSim.exe
+C:\Users\techboy\Desktop\PositioningSystem\Sim\_2DSim\_2DSim\obj\Debug\_2DSim.pdb
+C:\Users\techboy\Desktop\PositioningSystem\Sim\_2DSim\_2DSim\bin\Debug\back.png
+C:\Users\techboy\Desktop\PositioningSystem\Sim\_2DSim\_2DSim\bin\Debug\netDxf.dll
+C:\Users\techboy\Desktop\PositioningSystem\Sim\_2DSim\_2DSim\bin\Debug\netDxf.xml
+C:\Users\techboy\Desktop\PositioningSystem\Sim\_2DSim\_2DSim\obj\Debug\_2DSim.csproj.CopyComplete
+C:\Users\techboy\Desktop\PositioningSystem\Sim\_2DSim\_2DSim\obj\Debug\_2DSim.TwoDimensionalSpace.resources
